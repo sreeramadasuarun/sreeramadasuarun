@@ -3,7 +3,7 @@ UI/UX Web Graphic Designer and frond-end developer....💻</div>
   
 
 <div align="center">
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/98889e164499655.63f797012d3ea.gif" align="center" style="width: 100%" />
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/98889e164499655.63f797012d3ea.gif" align="center" style="width: 100vw" />
 </div>  
   
 
