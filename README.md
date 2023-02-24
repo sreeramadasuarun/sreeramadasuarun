@@ -7,7 +7,7 @@ UI/UX Web Graphic Designer and frond-end developer....💻</div>
 </div>  
   
 
-- 🔭 I’m currently working on [streams software solutions](https://streamsss.com/)  
+- 🔭 I’m currently working on [streams software solutions](https://streamsss.com)  
   
 
 - 🌱 I’m currently learning React js.  
