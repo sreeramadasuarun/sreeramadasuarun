@@ -28,6 +28,9 @@ UI/UX Web Graphic Designer and frond-end developer....💻</div>
   
 
 <br/>  
+<br/>  
+<br/>  
+<br/>  
 
 
 ## My Skill Set  
@@ -98,21 +101,4 @@ UI/UX Web Graphic Designer and frond-end developer....💻</div>
 <br/>  
 
 
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
