@@ -1,4 +1,4 @@
-## <div align="center">I'm Arun Sreeramadasu,🧑‍💻
+## <h1 align="center">I'm Arun Sreeramadasu,🧑‍💻
 UI/UX Web Graphic Designer and frond-end developer....💻</div>  
   
 
